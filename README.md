@@ -1,7 +1,7 @@
 # SE Spaceship
 
-[![Java CI](https://github.com/arsanyamaged14-debug/se-lab/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/arsanyamaged14-debug/se-lab/actions/workflows/maven.yml)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![Maven Build](https://github.com/arsanymaged14-debug/se-lab/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/arsanymaged14-debug/se-lab/actions/workflows/maven.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
